@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: py-tyru-4556-oc-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/py-test-werf-hrdet-udjrnb-gitops
